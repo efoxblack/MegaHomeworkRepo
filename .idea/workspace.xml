@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd3a950-bfa9-430c-a648-5131fa9a8701" name="Default Changelist" comment="" />
+    <list default="true" id="fcd3a950-bfa9-430c-a648-5131fa9a8701" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/notes/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/notes/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/notes/Variables.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -41,13 +48,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.DotComBust">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dogExample.Dog" />
+  <component name="RunManager" selected="Application.PasswordCheck">
+    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sinkadotcom.DotComBust" />
       <module name="Homework&amp;Notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dogExample.*" />
+          <option name="PATTERN" value="sinkadotcom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +62,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sinkadotcom.DotComBust" />
+    <configuration name="PasswordCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="password.PasswordCheck" />
       <module name="Homework&amp;Notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sinkadotcom.*" />
+          <option name="PATTERN" value="password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notes.Variables" />
+      <module name="Homework&amp;Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,10 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordCheck" />
+        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.DotComBust" />
         <item itemvalue="Application.simpleDotComTester" />
         <item itemvalue="Application.goodDogTester" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -117,22 +138,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="661" height="179" key="GridCell.Tab.0.bottom" timestamp="1584321343778">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584546126459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584321343778" />
-    <state width="661" height="179" key="GridCell.Tab.0.center" timestamp="1584321343778">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584546126459" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584714838884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584321343778" />
-    <state width="661" height="179" key="GridCell.Tab.0.left" timestamp="1584321343778">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584714838884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584321343778" />
-    <state width="661" height="179" key="GridCell.Tab.0.right" timestamp="1584321343778">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584714838884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584321343778" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584714838884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1584316204449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -145,5 +170,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584309226585" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584714285902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584714285902" />
   </component>
 </project>

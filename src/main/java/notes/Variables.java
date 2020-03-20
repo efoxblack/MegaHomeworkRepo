@@ -34,17 +34,21 @@ public class Variables {
 //        long big = 3456789;
 //        float f = 32.5f;
 
-        int nums[];
-        nums = new int[7];
-        nums[0] = 6;
-        nums[1] = 19;
-        nums[2] = 44;
-        nums[3] = 42;
-        nums[4] = 10;
-        nums[5] = 20;
-        nums[6] = 1;
+//        int nums[];
+//        nums = new int[7];
+//        nums[0] = 6;
+//        nums[1] = 19;
+//        nums[2] = 44;
+//        nums[3] = 42;
+//        nums[4] = 10;
+//        nums[5] = 20;
+//        nums[6] = 1;
 
-
+        for (int i = 1; i < 20; i++) {
+            if (i % 2 != 0 ) {
+                System.out.println(i);
+            }
+        }
 
     }
 }
