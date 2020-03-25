@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd3a950-bfa9-430c-a648-5131fa9a8701" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/notes/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/notes/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/notes/Variables.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Z8gE9jQnrH2Zg0BNy7kJaE38u0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,19 +43,45 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaClassWork" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.PasswordCheck">
-    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sinkadotcom.DotComBust" />
+  <component name="RunManager" selected="Application.ConstructorTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calendar.CalendarTest" />
       <module name="Homework&amp;Notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sinkadotcom.*" />
+          <option name="PATTERN" value="calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employer.ConstructorTest" />
+      <module name="Homework&amp;Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employer.EmployeeTest" />
+      <module name="Homework&amp;Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,39 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="goodDogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.goodDogTester" />
-      <module name="Homework&amp;Notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simpleDotComTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sinkadotcom.simpleDotComTester" />
-      <module name="Homework&amp;Notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sinkadotcom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorTest" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.PasswordCheck" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.DotComBust" />
-        <item itemvalue="Application.simpleDotComTester" />
-        <item itemvalue="Application.goodDogTester" />
       </list>
     </recent_temporary>
   </component>
@@ -138,34 +139,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584546126459">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585142375906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584546126459" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584714838884">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585142375906" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584928732262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584714838884">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584928732262" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584928732261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584714838884">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584928732261" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584928732261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584714838884">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584928732261" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584928732262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584714838884" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584928732262" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1584316204449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584316204449" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584296643287">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585142355192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584296643287" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585142355192" />
     <state x="65" y="65" key="new project wizard" timestamp="1584309226585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
