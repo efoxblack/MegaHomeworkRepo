@@ -28,10 +28,10 @@ public class GameHelper {
 
     public ArrayList<String> placeDotCom(int comSize) {
         ArrayList<String> alphaCells = new ArrayList<>();
-        // String [] alphacoords = new String[comSize];
+        String [] alphacoords = new String[comSize];
         String temp;
         int [] coords = new int[comSize];
-        // int attempts = 0;
+        int attempts = 0;
         boolean success = false;
         int location;
 
@@ -39,10 +39,9 @@ public class GameHelper {
         int incr = 1;
         if ((comCount % 2) == 1) {
             incr = gridLength;
-
         }
 
-        while (!success) {
+        while (!success & attempts++ < 200) {
             location = (int) (Math.random() *gridSize);
             int x = 0;
             success = true;
@@ -56,9 +55,8 @@ public class GameHelper {
                     if (x > 0 && (location % gridLength == 0)) {
                         success = false;
                     }
-
                 } else {
-                    // System.out.println(" used " + location);
+                    System.out.println(" used " + location);
                     success = false;
                 }
             }
@@ -67,7 +65,7 @@ public class GameHelper {
         int x = 0;
         int row;
         int column;
-        // System.out.println("\n");
+        System.out.println("\n");
         while (x < comSize) {
             grid[coords[x]] = 1;
             row = coords[x] / gridLength;
@@ -76,10 +74,10 @@ public class GameHelper {
 
             alphaCells.add(temp.concat(Integer.toString(row)));
             x++;
-            // System.out.println(" coord " + x + " = " + alphaCells.get(x - 1));
+            System.out.println(" coord " + x + " = " + alphaCells.get(x - 1));
         }
 
-        // System.out.println("\n");
+        System.out.println("\n");
 
         return alphaCells;
     }
