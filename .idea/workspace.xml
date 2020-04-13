@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd3a950-bfa9-430c-a648-5131fa9a8701" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sinkadotcom/GameHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sinkadotcom/GameHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Homework&amp;Notes.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/notes/ArrayListMagnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/notes/ArrayListMagnet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListMagnet">
+  <component name="RunManager" selected="Application.TreeTest">
     <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="notes.ArrayListMagnet" />
       <module name="Homework&amp;Notes" />
@@ -71,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="notes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calendar.CalendarTest" />
-      <module name="Homework&amp;Notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.TreeTest" />
+      <module name="MegaHomeworkRepo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeTest" />
         <item itemvalue="Application.ArrayListMagnet" />
         <item itemvalue="Application.ArrayListNotes" />
         <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.CalendarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -145,30 +147,39 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585511594194" />
+    <state x="2725" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586752366090">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2725" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586752366090" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585142375906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585142375906" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584928732262">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586753489793">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584928732262" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584928732261">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586753489793" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586753489793">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584928732261" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584928732261">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586753489793" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586753489793">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584928732261" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584928732262">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586753489793" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586753489793">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584928732262" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1584316204449">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586753489793" />
+    <state x="2149" y="0" key="SettingsEditor" timestamp="1586752702753">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584316204449" />
+    <state x="2149" y="0" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586752702753" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585142355192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
