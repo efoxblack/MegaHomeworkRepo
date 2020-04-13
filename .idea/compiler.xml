@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Homework" />
+        <module name="MegaHomeworkRepo" />
         <module name="Homework&amp;Notes" />
+        <module name="Homework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="13" />
